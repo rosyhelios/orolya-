@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from "next/image"
 import { Mail, Phone, MapPin } from "lucide-react"
+import Link from "next/link"
 
 const Footer = () => {
     return (
@@ -29,10 +30,10 @@ const Footer = () => {
                 <div>
                     <h4 className="font-semibold text-white mb-4">Quick Links</h4>
                     <ul className="space-y-2 text-sm">
-                        <li><a href="/" className="hover:text-white transition">Home</a></li>
-                        <li><a href="/about" className="hover:text-white transition">About</a></li>
-                        <li><a href="/services" className="hover:text-white transition">Services</a></li>
-                        <li><a href="/contact" className="hover:text-white transition">Contact</a></li>
+                        <li><Link href="/" className="hover:text-white transition">Home</Link></li>
+                        <li><Link href="/about" className="hover:text-white transition">About</Link></li>
+                        <li><Link href="/services" className="hover:text-white transition">Services</Link></li>
+                        <li><Link href="/contact" className="hover:text-white transition">Contact</Link></li>
                     </ul>
                 </div>
 
