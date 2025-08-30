@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="just kinda mid">
+      <change afterPath="$PROJECT_DIR$/app/category/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/footer/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/symptomchecker/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rules.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/TN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanity/schemaTypes/question.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/footer/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/category/process/category_card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/process/category_card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/category/sessionHeading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/sessionHeading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/symptomChecker/adults/adults.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/symptomChecker/kid/kids.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/symptomChecker/kid/kids.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant/constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constant/constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31zKtDgpWo6qCPwxS2aPeBKPSw6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/hridh/Desktop/intern/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Next.js: server-side.executor": "Debug",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\hridh\\Desktop\\intern\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\hridh\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="02e78ab0-ca15-4e85-9480-d00b667edf76" reportId="intern/qodana/2025-08-30" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hridh\Desktop\intern\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hridh\Desktop\intern\public\images" />
+      <recent name="C:\Users\hridh\Desktop\intern\public" />
+      <recent name="C:\Users\hridh\Desktop\intern\components\home\category\process" />
+      <recent name="C:\Users\hridh\Desktop\intern\components\home\category" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="" />
+      <created>1756521673725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756521673725</updated>
+      <workItem from="1756521675415" duration="24086000" />
+      <workItem from="1756549080647" duration="15101000" />
+    </task>
+    <task id="LOCAL-00001" summary="just kinda mid">
+      <option name="closed" value="true" />
+      <created>1756549152170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756549152170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just kinda mid" />
+    <option name="LAST_COMMIT_MESSAGE" value="just kinda mid" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

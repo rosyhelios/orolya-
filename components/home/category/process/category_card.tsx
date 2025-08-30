@@ -17,7 +17,7 @@ const CategoryCard: React.FC<Props> = ({ category }) => {
                 {/* Icon / Placeholder Circle */}
                 <div className="w-16 h-16 bg-gray-200 dark:bg-gray-800 rounded-full mx-auto flex items-center justify-center mb-4">
           <span className="text-xl font-bold text-gray-600 dark:text-gray-300">
-            {category.categoryName.charAt(0)}
+            {'==>'}
           </span>
                 </div>
 

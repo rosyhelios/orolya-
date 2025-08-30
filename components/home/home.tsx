@@ -1,10 +1,10 @@
+
 import React from 'react';
 import Hero from "@/components/home/Hero/hero";
 import Category from "@/components/home/category/process/category";
 import Demo from "@/components/home/category/demo/demo";
-import Kids from "@/components/symptomChecker/kid/kids";
-import Adults from "@/components/symptomChecker/adults/adults";
 import Footer from "@/components/footer/footer";
+import Formed from "@/components/symptomChecker/adults/Formed";
 
 
 export const HomePage = () => {
@@ -33,18 +33,15 @@ export const HomePage = () => {
             <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
                 <Demo/>
             </section>
+            <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
 
-            <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
-                <Kids/>
             </section>
             <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
-                <Adults/>
+                <Formed/>
             </section>
-            <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
+            <footer >
                 <Footer/>
-            </section>
-
-
+            </footer>
         </>
     );
 };
