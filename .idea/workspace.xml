@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="just kinda mid">
-      <change afterPath="$PROJECT_DIR$/app/category/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/footer/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/symptomchecker/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rules.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/schema.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/TN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/schemaTypes/question.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/category/process/category_card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/process/category_card.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/category/sessionHeading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/sessionHeading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/symptomChecker/adults/adults.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/symptomChecker/kid/kids.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/symptomChecker/kid/kids.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constant/constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constant/constant.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="kinda finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rosyhelios"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rosyhelios/orolya.git",
+    "accountId": "7d412f90-cd33-43ea-92b0-79c4f975d099"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -118,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756521673725</updated>
       <workItem from="1756521675415" duration="24086000" />
-      <workItem from="1756549080647" duration="15101000" />
+      <workItem from="1756549080647" duration="16185000" />
     </task>
     <task id="LOCAL-00001" summary="just kinda mid">
       <option name="closed" value="true" />
@@ -128,15 +119,43 @@
       <option name="project" value="LOCAL" />
       <updated>1756549152170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kinda finished">
+      <option name="closed" value="true" />
+      <created>1756567294450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567294450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="kinda finished">
+      <option name="closed" value="true" />
+      <created>1756567326129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567326129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just kinda mid" />
-    <option name="LAST_COMMIT_MESSAGE" value="just kinda mid" />
+    <MESSAGE value="kinda finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="kinda finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
