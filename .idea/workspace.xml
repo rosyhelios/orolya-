@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="kinda finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/Navbar/responsiveNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Navbar/responsiveNav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity.cli.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/env.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/client.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/image.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/live.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/question.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/structure.ts" beforeDir="false" />
-    </list>
+    <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="front end finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +109,7 @@
       <workItem from="1756521675415" duration="24086000" />
       <workItem from="1756549080647" duration="17545000" />
       <workItem from="1757166506256" duration="1434000" />
-      <workItem from="1757168341541" duration="409000" />
+      <workItem from="1757168341541" duration="829000" />
     </task>
     <task id="LOCAL-00001" summary="just kinda mid">
       <option name="closed" value="true" />
@@ -164,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756568714980</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="front end finished">
+      <option name="closed" value="true" />
+      <created>1757168770936</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757168770936</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just kinda mid" />
     <MESSAGE value="kinda finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="kinda finished" />
+    <MESSAGE value="front end finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="front end finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
