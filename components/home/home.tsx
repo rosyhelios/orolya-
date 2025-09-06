@@ -34,10 +34,10 @@ export const HomePage = () => {
                 <Demo/>
             </section>
             <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
-
+                <Formed/>
             </section>
             <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
-                <Formed/>
+
             </section>
             <footer >
                 <Footer/>
