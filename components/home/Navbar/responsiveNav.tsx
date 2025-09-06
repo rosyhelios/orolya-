@@ -12,7 +12,7 @@ const ResponsiveNav = () => {
     return (
         <div>
             {/* Pass toggle function to Nav */}
-            <Nav toggleNav={toggleNav} />
+            <Nav  />
 
             {/* Mobile sidebar */}
             <MobileNav showNav={showNav} closeNav={toggleNav} />

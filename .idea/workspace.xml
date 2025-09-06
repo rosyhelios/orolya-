@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="kinda finished">
-      <change beforePath="$PROJECT_DIR$/components/footer/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/symptomChecker/kid/kids.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/Navbar/responsiveNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Navbar/responsiveNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity.cli.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/env.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/image.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/live.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/question.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/structure.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rosyhelios"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rosyhelios&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rosyhelios/orolya.git",
-    "accountId": "7d412f90-cd33-43ea-92b0-79c4f975d099"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rosyhelios/orolya.git&quot;,
+    &quot;accountId&quot;: &quot;7d412f90-cd33-43ea-92b0-79c4f975d099&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -40,31 +49,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "js.debugger.nextJs.config.created.client": "true",
-    "js.debugger.nextJs.config.created.server": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/hridh/Desktop/intern/app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.Next.js: server-side.executor": "Debug",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Users\\hridh\\Desktop\\intern\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
+    &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hridh/Desktop/intern/app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.Next.js: server-side.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\hridh\\Desktop\\intern\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\hridh\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="02e78ab0-ca15-4e85-9480-d00b667edf76" reportId="intern/qodana/2025-08-30" />
@@ -111,7 +120,9 @@
       <option name="presentableId" value="Default" />
       <updated>1756521673725</updated>
       <workItem from="1756521675415" duration="24086000" />
-      <workItem from="1756549080647" duration="16648000" />
+      <workItem from="1756549080647" duration="17545000" />
+      <workItem from="1757166506256" duration="1434000" />
+      <workItem from="1757168341541" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="just kinda mid">
       <option name="closed" value="true" />
@@ -145,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756568199555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kinda finished">
+      <option name="closed" value="true" />
+      <created>1756568714980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756568714980</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +192,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx</url>
           <line>19</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
