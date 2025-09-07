@@ -9,7 +9,7 @@ const Demo = () => {
         <HeroVideoDialog
         className="block dark:hidden"
         animationStyle="from-center"
-        videoSrc="https://www.youtube.com/embed/y3QsGvx547M"
+        videoSrc="https://www.youtube.com/embed/-sORpbi99uc"
         thumbnailSrc='/images/TN.jpg'
         thumbnailAlt="Dummy Video Thumbnail"
         />

@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a535b52f-168b-4031-8199-9b6783944b3b" name="Changes" comment="front end finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/symptomchecker/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/symptomchecker/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/Navbar/nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Navbar/nav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/symptomChecker/adults/Formed.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rules.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rules.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/schema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/category/demo/demo.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +122,7 @@
       <workItem from="1757166506256" duration="1434000" />
       <workItem from="1757168341541" duration="2772000" />
       <workItem from="1757184315490" duration="311000" />
-      <workItem from="1757218320386" duration="2715000" />
+      <workItem from="1757218320386" duration="3086000" />
     </task>
     <task id="LOCAL-00001" summary="just kinda mid">
       <option name="closed" value="true" />
@@ -226,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757170085054</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="front end finished">
+      <option name="closed" value="true" />
+      <created>1757221223095</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757221223095</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
