@@ -40,7 +40,7 @@ export const HomePage = () => {
                 <Formed/>
             </section>
             <section className="w-full h-30 bg-blue-200 flex items-center justify-center">
-
+            <p>Disclaimer this is only a educational page not to be confused and taken very very seriously</p>
             </section>
             <footer >
                 <Footer/>
