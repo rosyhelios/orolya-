@@ -61,6 +61,7 @@ const Nav = () => {
                                 )}
                             </React.Fragment>
                         ))}
+                        <Link href={"/symptomChecker/adults/Formed"}></Link>
                         <button
                             className={`px-6 py-2 text-sm rounded-lg cursor-pointer transition-all duration-300 ml-4 ${
                                 navBg
@@ -69,7 +70,7 @@ const Nav = () => {
                             }`}
                         >
                              take interview
-                            <Link href={"/symptomChecker/adults/Formed"}></Link>
+
                         </button>
                     </div>
 
