@@ -39,6 +39,7 @@ const Nav = () => {
                             height={100}
                             className="object-contain"
                         />
+                        <Link href={"/Home"}></Link>
                         <h1 className={`font-bold text-lg ${textColor}`}>OROLYA</h1>
                     </div>
 
@@ -67,7 +68,8 @@ const Nav = () => {
                                     : "bg-blue-950 hover:bg-blue-700 text-white"
                             }`}
                         >
-                            Login
+                             take interview
+                            <Link href={"/symptomChecker/adults/Formed"}></Link>
                         </button>
                     </div>
 

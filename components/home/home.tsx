@@ -39,7 +39,7 @@ export const HomePage = () => {
             <section className="w-full min-h-screen bg-blue-200 flex items-center justify-center">
                 <Formed/>
             </section>
-            <section className="w-full h-100 bg-blue-200 flex items-center justify-center">
+            <section className="w-full h-30 bg-blue-200 flex items-center justify-center">
 
             </section>
             <footer >
